@@ -15,6 +15,12 @@ const THIRD_PARTY_LIST: ThirdPartyItem[] = [
     description: "Quick write down your memo with shortcut in iOS.",
     link: "https://github.com/usememos/memos/discussions/52",
   },
+  {
+    name: "Memo in WMP",
+    author: "rabithua",
+    description: "Build or use memo in WechatMiniProgress.",
+    link: "https://github.com/Rabithua/memos_wmp",
+  },
 ];
 
 const ThirdParty = () => {
